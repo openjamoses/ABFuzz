@@ -1,5 +1,6 @@
 # ABFuzz
 ABFuzz: Behavioral Fuzzing for AI Coding Agents
 
+[Appendix](#Appendix) 
 
-![Image](Appendix.pdf)
+![Appendix](Appendix.pdf "An overview of our study design/ methodology")
